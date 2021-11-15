@@ -9,7 +9,7 @@ import java.util.NoSuchElementException;
  * @userid sliu733
  * @GTID 903631324
  *
- * Collaborators: The only two braincells I have left.
+ * Collaborators:
  *
  * Resources: lecture slides
  */
