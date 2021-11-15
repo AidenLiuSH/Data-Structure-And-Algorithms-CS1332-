@@ -12,7 +12,7 @@ import java.util.LinkedList;
  * @userid sliu733
  * @GTID 903631324
  *
- * Collaborators: The only two braincells I have left.
+ * Collaborators:
  *
  * Resources: LIST ALL NON-COURSE RESOURCES YOU CONSULTED HERE
  */
